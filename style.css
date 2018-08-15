@@ -33,7 +33,6 @@ nav {
     margin: 20px;
     padding: 20px;
     float: left;
-    overflow: auto;
 }
 
 h4 {
@@ -71,8 +70,8 @@ aside {
     width: 385px;
     height: 360px;
     margin: 20px;
-    padding: 50px;
-    float: right;
+    padding: 40px;
+    float: left;
 }
 
 footer {
